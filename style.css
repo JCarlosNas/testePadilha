@@ -1,0 +1,23 @@
+
+h1,p {
+
+    text-align: center;
+       
+    color: rgb(8, 237, 57);
+   }
+   
+
+.center{
+    
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+*{
+    background-color: rgb(20, 20, 51);
+}
+
